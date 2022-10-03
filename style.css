@@ -108,6 +108,7 @@ body {
     text-align: center;
 }
 
+/* custom donation area */
 .line {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -116,8 +117,12 @@ body {
 .field {
     height: 40px;
     width: 400px;
-    margin-left: 35%;
+    margin-left: 37.5%;
     border: transparent;
+    text-align: center;
+    color: rgb(237, 237, 238);
+    font-size: 20px;
+    font: 500;
 }
 
 .line-2 {
@@ -125,7 +130,7 @@ body {
     margin-left: 20%;
     color: gray;
 }
-/* custom donation area */
+
 
 .secdonation {
     margin-top: 20px;
